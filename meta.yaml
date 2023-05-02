@@ -1,0 +1,15 @@
+names:
+- boneanomaly
+- bonelesion
+- foreignbody
+- fracture
+- metal
+- periostealreaction
+- pronatorsign
+- softtissue
+- text
+nc: 9
+
+train: '/content/gdrive/MyDrive/WristBoneProject/GRAZPEDWRI-DX_dataset/yolov5/images/train'
+val: '/content/gdrive/MyDrive/WristBoneProject/GRAZPEDWRI-DX_dataset/yolov5/images/valid'
+test: '/content/gdrive/MyDrive/WristBoneProject/GRAZPEDWRI-DX_dataset/yolov5/images/test'
