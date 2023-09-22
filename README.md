@@ -30,6 +30,7 @@ can serve as a supplementary aid to help surgeons detect issues they may have mi
 # Dataset
 
 
+![image](https://github.com/ACM-Research/CarpusFractureDiagnosticsYOLOv7-Public/assets/78242653/12cab38f-c4c3-49c3-9877-72f7b8a2d5a0)
 
 Figure 1. Sample images of dataset
 
@@ -74,6 +75,8 @@ GPU classes (typically being NVIDIA V100 and A100 Tensor Core) and High-RAM clas
 GB
 
 ## Model Evaluation
+![image](https://github.com/ACM-Research/CarpusFractureDiagnosticsYOLOv7-Public/assets/78242653/cd0d832b-fd1f-4eb1-ae56-6f361e091c48)
+
 Figure 2. Model evaluation result
 
 In object detection, precision, recall, and mean average precision (mAP) are commonly used
@@ -89,6 +92,7 @@ tp + fp
 
 • Recall measures the percentage of correctly predicted positive samples out of all true positive
 samples, where a high recall means most objects can be detected.
+
 Recall =
 tp
 tp + fn
@@ -109,6 +113,7 @@ can help automate the diagnosis of fractures and assist radiologists in making f
 accurate diagnoses. The use of YOLOv7/v8 in clinical settings has the potential to improve patient
 outcomes and reduce healthcare costs.
 
+![image](https://github.com/ACM-Research/CarpusFractureDiagnosticsYOLOv7-Public/assets/78242653/a6c00caf-17bb-4657-8f86-822974467c84)
 
 Figure 3. Confusion Matrix, Precision-Recall Curve, F1 Score Curve
 
