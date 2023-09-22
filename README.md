@@ -1,4 +1,4 @@
-# CarpusFractureDiagnosticsYOLOv7-Public
+![Wristbone_Fracture_Detection (10)-1](https://github.com/ACM-Research/CarpusFractureDiagnosticsYOLOv7-Public/assets/78242653/9a13ffc1-ea4d-48d9-8859-4ff4a1942bbd)
 
 # Introduction
 
@@ -131,6 +131,7 @@ precision and recall values for the model with the overall model performance fro
 
 • Output of the model
 
+![image](https://github.com/ACM-Research/CarpusFractureDiagnosticsYOLOv7-Public/assets/78242653/100a2f84-5285-409e-aa05-faba405f669a)
 
 Figure 4. Labeled Dataset and Predictions
 
